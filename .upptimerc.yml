@@ -7,6 +7,7 @@ sites:
     url: https://dfbtech.wixsite.com/site
 
 status-website:
+  theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: dfbstatus.pages.dev
@@ -20,7 +21,6 @@ status-website:
       href: /
     - title: Main Site
       href: https://dfbtech.wixsite.com/site
-  theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
